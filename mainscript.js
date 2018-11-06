@@ -114,7 +114,7 @@ setTimeout(function() {
     setTimeout(function () {
       $('.eight').addClass('show');
       setTimeout(function () {
-      $('.eight').addClass('show');
+      $('.text').addClass('show');
       $('.savi-dp').addClass('show-text');
     }, 35000);
   }, 3000);
